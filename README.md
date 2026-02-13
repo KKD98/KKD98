@@ -35,7 +35,7 @@ I specialize in the **MERN Stack** and love building dynamic, responsive web app
 
 * 🔭 **Currently working on:** Advanced scalable web apps using Next.js.
 * 🌱 **Learning:** TypeScript, JWT, and System Design.
-* ⚡ **Fun fact:** I love categorizing complex data—just like I did for my "Disney World" toy project![cite: 26].
+* ⚡ **Fun fact:** I love categorizing complex data—just like I did for my "Disney World" toy project!.
 
 ---
 
@@ -57,24 +57,24 @@ I specialize in the **MERN Stack** and love building dynamic, responsive web app
 > A comprehensive platform for Students, Instructors, and Admins.
 * **Tech:** React.js, Tailwind, DaisyUI, Node.js, MongoDB, Stripe.
 * **Key Features:**
-    * **Three Dashboards:** Dynamic views specifically for Students, Instructors, and Admins[cite: 18].
-    * **Class Management:** Instructors can add classes; Admins can approve/deny them[cite: 19].
-    * **Payments:** Integrated secure payment gateway for student enrollment[cite: 20].
+    * **Three Dashboards:** Dynamic views specifically for Students, Instructors, and Admins.
+    * **Class Management:** Instructors can add classes; Admins can approve/deny them.
+    * **Payments:** Integrated secure payment gateway for student enrollment.
 
 #### 🧸 **Disney World** (Toy Marketplace)
 > A specialized marketplace for educational toys.
 * **Tech:** React.js, Express.js, MongoDB, REST API.
 * **Key Features:**
-    * **Inventory System:** Users can add, update, and delete their toy listings[cite: 28].
-    * **Advanced Search:** Built a search route to find toys by name prefix[cite: 29].
-    * **Security:** Private routes ensure only logged-in users view full details[cite: 27].
+    * **Inventory System:** Users can add, update, and delete their toy listings.
+    * **Advanced Search:** Built a search route to find toys by name prefix.
+    * **Security:** Private routes ensure only logged-in users view full details.
 
 #### 🍲 **Mixed Masala** (Chef Recipe App)
 > A culinary hub for Indian cuisine lovers.
 * **Tech:** React.js, Firebase Auth, Express.js.
 * **Key Features:**
-    * **Authentication:** Supports Google, GitHub, and Email/Password login[cite: 34].
-    * **Exclusive Content:** Chef recipes are protected by private routes[cite: 33].
+    * **Authentication:** Supports Google, GitHub, and Email/Password login.
+    * **Exclusive Content:** Chef recipes are protected by private routes.
 
 ---
 
